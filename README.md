@@ -7,7 +7,9 @@ y compartirlo con amigos de la plataforma para que ellos puedan descargarlo o te
 Obviamente un usuario solo puede acceder a las partys a las que pertenece o a partys publicas, ademas de la funcionalidad de descargar y 
 convertir videos es accesible incluso si no tienes cuenta.
 
-Cosntaria de usuarios, "partys", y archivos (los que los usuarios han subido).
+
+# Entidades
+Constaria de usuarios, "partys", y archivos (los que los usuarios han subido).
 
 Usuarios:
 contraseña
@@ -29,5 +31,6 @@ duracion
 Formato
 
 
+# Info
 Santiago Serrano Marco s.serranoma.2018@alumnos.urjc.es
 github: sargentomili
