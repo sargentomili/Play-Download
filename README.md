@@ -12,23 +12,23 @@ convertir videos es accesible incluso si no tienes cuenta.
 Constaria de usuarios, "partys", y archivos (los que los usuarios han subido).
 
 ### Usuarios:
-contraseña
-correo
-lista amigos
+#### contraseña
+#### correo
+#### lista amigos
 
 ### Partys:
-Administrador
-publica/privada
-idarchivo/link reproduciendose
+#### Administrador
+#### publica/privada
+#### idarchivo/link reproduciendose
 
 ### Archivos:
-id
-duracion
-Formato
+#### id
+#### duracion
+#### Formato
 
 ### (Tablas de relacion n x m).
--Lista de "Partys"
--Lista de Archivos
+#### -Lista de "Partys"
+#### -Lista de Archivos
 
 # Info
 Santiago Serrano Marco s.serranoma.2018@alumnos.urjc.es
