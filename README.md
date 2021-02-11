@@ -27,8 +27,8 @@ Constaria de usuarios, "partys", y archivos (los que los usuarios han subido).
 - Formato
 
 ### (Tablas de relacion n x m).
-- -Lista de "Partys"
-- -Lista de Archivos
+- -Lista de "Partys"/Usuarios
+- -Lista de Archivos/Usuarios
 
 # Info
 Santiago Serrano Marco s.serranoma.2018@alumnos.urjc.es
