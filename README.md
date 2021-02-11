@@ -1,6 +1,4 @@
-# PRoyectoDistribuido
-
-Play&Download
+# Play&Download
 
 Una aplicacion que permite meterte en "partys" con amigos para reproducir musica o videos de youtube juntos (tipo sala de cine o discoteca),
 tambien permitiria descargar los video y convertirlo en formato, ademas de poder subir tu propio archivo en vez de recurrir a un video de youtube.
@@ -9,6 +7,25 @@ Obviamente un usuario solo puede acceder a las partys a las que pertenece o a pa
 convertir videos es accesible incluso si no tienes cuenta.
 
 Cosntaria de usuarios, "partys", y archivos (los que los usuarios han subido).
+
+Usuarios:
+contraseña
+correo.
+
+-Lista de "Partys".
+-Lista de Amigos.
+-Lista de Archivos.
+
+Partys:
+Administrador
+publica/privada.
+idarchivo/link reproduciendose
+
+Archivos:
+id
+duracion
+Formato
+
 
 Santiago Serrano Marco s.serranoma.2018@alumnos.urjc.es
 github: sargentomili
