@@ -9,22 +9,25 @@ convertir videos es accesible incluso si no tienes cuenta.
 Cosntaria de usuarios, "partys", y archivos (los que los usuarios han subido).
 
 Usuarios:
-contraseña
+.
+contraseña.
 correo.
-
+.
 -Lista de "Partys".
 -Lista de Amigos.
 -Lista de Archivos.
-
+.
 Partys:
-Administrador
+.
+Administrador.
 publica/privada.
-idarchivo/link reproduciendose
+idarchivo/link reproduciendose.
 
 Archivos:
-id
-duracion
-Formato
+.
+id.
+duracion.
+Formato.
 
 
 Santiago Serrano Marco s.serranoma.2018@alumnos.urjc.es
