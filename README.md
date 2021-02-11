@@ -19,7 +19,7 @@ Constaria de usuarios, "partys", y archivos (los que los usuarios han subido).
 ### Partys:
 ##### Administrador
 ##### publica/privada
-##### idarchivo/link reproduciendose
+##### IdArchivo/link reproduciendose
 
 ### Archivos:
 ##### id
