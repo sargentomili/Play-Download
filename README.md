@@ -8,28 +8,27 @@ Obviamente un usuario solo puede acceder a las partys a las que pertenece o a pa
 convertir videos es accesible incluso si no tienes cuenta.
 
 
-## Entidades
+# Entidades
 Constaria de usuarios, "partys", y archivos (los que los usuarios han subido).
 
-Usuarios:
+## Usuarios:
 contraseña
 correo
 lista amigos
 
-(Tablas de relacion n x m).
--Lista de "Partys"
--Lista de Archivos
-
-Partys:
+## Partys:
 Administrador
 publica/privada
 idarchivo/link reproduciendose
 
-Archivos:
+## Archivos:
 id
 duracion
 Formato
 
+## (Tablas de relacion n x m).
+-Lista de "Partys"
+-Lista de Archivos
 
 # Info
 Santiago Serrano Marco s.serranoma.2018@alumnos.urjc.es
