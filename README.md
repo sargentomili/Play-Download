@@ -11,22 +11,22 @@ convertir videos es accesible incluso si no tienes cuenta.
 # Entidades
 Constaria de usuarios, "partys", y archivos (los que los usuarios han subido).
 
-## Usuarios:
+### Usuarios:
 contraseña
 correo
 lista amigos
 
-## Partys:
+### Partys:
 Administrador
 publica/privada
 idarchivo/link reproduciendose
 
-## Archivos:
+### Archivos:
 id
 duracion
 Formato
 
-## (Tablas de relacion n x m).
+### (Tablas de relacion n x m).
 -Lista de "Partys"
 -Lista de Archivos
 
