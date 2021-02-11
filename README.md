@@ -8,7 +8,7 @@ Obviamente un usuario solo puede acceder a las partys a las que pertenece o a pa
 convertir videos es accesible incluso si no tienes cuenta.
 
 
-# Entidades
+## Entidades
 Constaria de usuarios, "partys", y archivos (los que los usuarios han subido).
 
 Usuarios:
